@@ -29,4 +29,7 @@ p{
 .container
 {
     max-width: 1300px;
+    margin: 0px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
