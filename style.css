@@ -106,6 +106,10 @@ p{
 .checked{
     color: orange;
 }
+
+.rating:hover{
+    cursor: pointer;
+}
 .title{
     text-align: center;
     margin: 0 auto 80px;
