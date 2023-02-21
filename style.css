@@ -175,6 +175,7 @@ h4{
 }
 .testimonial .col-3 :hover{
     transform: translateY(-10px);
+    display: block;
 
 }
 .fa.fa-quote-left{
